@@ -1,113 +1,114 @@
-# 📚 Student Performance Analysis 
-## A Deep Dive into Academic Success Factors 🎓
+# 📚 Análisis del Rendimiento Estudiantil
+## Una Mirada Profunda a los Factores del Éxito Académico 🎓
 
-![Student Analysis Banner](https://images.unsplash.com/photo-1501503069356-3c6b82a17d89?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![Banner de Análisis Estudiantil](https://images.unsplash.com/photo-1501503069356-3c6b82a17d89?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
-## 🎯 Project Overview
+## 🎯 Descripción General del Proyecto
 
-This Jupyter notebook analyzes various factors affecting student academic performance, providing insights into the relationships between study habits, lifestyle choices, and academic outcomes.
+Este notebook Jupyter analiza varios factores que afectan el rendimiento académico de los estudiantes, proporcionando información sobre las relaciones entre los hábitos de estudio, el estilo de vida y los resultados académicos.
 
-### 🔍 Key Areas of Analysis
+### 🔍 Áreas Clave de Análisis
 
-- 📖 Study Hours Impact
-- 💻 Social Media Usage
-- 🎬 Netflix Consumption
-- 😴 Sleep Patterns
-- 👥 Gender Differences
-- 💼 Part-time Work Effects
-- 🏃 Extracurricular Activities
-- 🍎 Diet Quality
-- 🧠 Mental Health
+- 📖 Impacto de las Horas de Estudio
+- 💻 Uso de Redes Sociales
+- 🎬 Consumo de Netflix
+- 😴 Patrones de Sueño
+- 👥 Diferencias de Género
+- 💼 Efectos del Trabajo a Tiempo Parcial
+- 🏃 Actividades Extracurriculares
+- 🍎 Calidad de la Dieta
+- 🧠 Salud Mental
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologías Utilizadas
 
 - **Python** 3.x
-- **Libraries**:
-  - pandas (data manipulation)
-  - numpy (numerical operations)
-  - matplotlib & seaborn (static visualizations)
-  - plotly (interactive visualizations)
-  - scipy (statistical analysis)
+- **Bibliotecas**:
+   - pandas (manipulación de datos)
+   - numpy (operaciones numéricas)
+   - matplotlib & seaborn (visualizaciones estáticas)
+   - plotly (visualizaciones interactivas)
+   - scipy (análisis estadístico)
 
-## 📊 Key Findings
+## 📊 Hallazgos Principales
 
-### Study Hours vs Performance
-> **Correlation: 0.75**
-- Strong positive correlation between study hours and exam scores
-- Each additional hour of study associated with higher performance
+### Horas de Estudio vs Rendimiento
+> **Correlación: 0.75**
+- Fuerte correlación positiva entre horas de estudio y calificaciones
+- Cada hora adicional de estudio asociada con mayor rendimiento
 
-### Social Media Impact
+### Impacto de las Redes Sociales
 ```mermaid
 graph LR
-    A[Social Media Hours] -->|Negative Correlation| B[Exam Score]
+      A[Horas en Redes Sociales] -->|Correlación Negativa| B[Calificación]
 ```
 
-### Sleep Patterns
-| Sleep Hours | Performance Impact |
-|-------------|-------------------|
-| < 6 hours   | ⬇️ Lower scores  |
-| 7-8 hours   | ⬆️ Optimal range |
-| > 9 hours   | ➡️ Diminishing returns |
+### Patrones de Sueño
+| Horas de Sueño | Impacto en el Rendimiento |
+|----------------|---------------------------|
+| < 6 horas      | ⬇️ Calificaciones más bajas |
+| 7-8 horas      | ⬆️ Rango óptimo |
+| > 9 horas      | ➡️ Rendimientos decrecientes |
 
-## 🎨 Visualizations
+## 🎨 Visualizaciones
 
-The notebook includes various interactive and static visualizations:
-- Box plots for categorical comparisons
-- Scatter plots with regression lines
-- Interactive Plotly charts
-- Distribution plots
+El notebook incluye varias visualizaciones interactivas y estáticas:
+- Diagramas de caja para comparaciones categóricas
+- Gráficos de dispersión con líneas de regresión
+- Gráficos interactivos con Plotly
+- Gráficos de distribución
 
-## 💡 Key Insights
+## 💡 Ideas Principales
 
-1. **Study Habits** 📚
-   - Direct correlation with academic performance
-   - Quality matters as much as quantity
+1. **Hábitos de Estudio** 📚
+    - Correlación directa con el rendimiento académico
+    - La calidad importa tanto como la cantidad
 
-2. **Digital Distractions** 📱
-   - Social media shows negative correlation
-   - Netflix consumption impacts study effectiveness
+2. **Distracciones Digitales** 📱
+    - Las redes sociales muestran correlación negativa
+    - El consumo de Netflix impacta la efectividad del estudio
 
-3. **Lifestyle Factors** 🌟
-   - Diet quality significantly affects performance
-   - Extracurricular activities show positive impact
-   - Mental health strongly correlates with academic success
+3. **Factores del Estilo de Vida** 🌟
+    - La calidad de la dieta afecta significativamente el rendimiento
+    - Las actividades extracurriculares muestran impacto positivo
+    - La salud mental se correlaciona fuertemente con el éxito académico
 
-## 🚀 Getting Started
+## 🚀 Comenzando
 
-1. Clone this repository
-2. Install required packages:
+1. Clona este repositorio
+2. Instala los paquetes requeridos:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn plotly plotly_express scipy
 ```
-3. Open the Jupyter notebook:
+3. Abre el notebook Jupyter:
 ```bash
 jupyter notebook performance.ipynb
 ```
 
-## 📈 Results Preview
+## 📈 Vista Previa de Resultados
 
-![Performance Metrics](https://via.placeholder.com/800x400?text=Student+Performance+Metrics)
+![Métricas de Rendimiento](https://via.placeholder.com/800x400?text=Metricas+de+Rendimiento+Estudiantil)
 
-## 🤝 Contributing
+## 🤝 Contribuciones
 
-Feel free to fork this project and submit improvements. Areas for potential enhancement:
-- Additional visualization types
-- More detailed statistical analysis
-- Machine learning predictions
+Siéntete libre de hacer fork de este proyecto y enviar mejoras. Áreas de posible mejora:
+- Tipos adicionales de visualización
+- Análisis estadístico más detallado
+- Predicciones con machine learning
 
-## 📝 License
+## 📝 Licencia
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
-## ✨ Acknowledgments
+## ✨ Agradecimientos
 
-Special thanks to:
-- Educational institutions providing data
-- Data science community
-- Open source contributors
+Agradecimientos especiales a:
+- Instituciones educativas que proporcionaron datos
+- Comunidad de ciencia de datos
+- Contribuyentes de código abierto
 
 ---
 
 <p align="center">
-Made with ❤️ for education analysis
+Hecho con ❤️ para el análisis educativo
 </p>
+
