@@ -112,3 +112,125 @@ Agradecimientos especiales a:
 Hecho con ❤️ para el análisis educativo
 </p>
 
+
+<div align="center">
+   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Education Separator" width="100%">
+</div>
+
+# 📚 Student Performance Analysis
+## A Deep Look into Academic Success Factors 🎓
+
+![Student Analysis Banner](https://images.unsplash.com/photo-1501503069356-3c6b82a17d89?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+
+## 🎯 Project Overview
+
+This Jupyter notebook analyzes various factors affecting students' academic performance, providing insights into the relationships between study habits, lifestyle, and academic outcomes.
+
+### 🔍 Key Analysis Areas
+
+- 📖 Study Hours Impact
+- 💻 Social Media Usage
+- 🎬 Netflix Consumption
+- 😴 Sleep Patterns
+- 👥 Gender Differences
+- 💼 Part-time Work Effects
+- 🏃 Extracurricular Activities
+- 🍎 Diet Quality
+- 🧠 Mental Health
+
+## 🛠️ Technologies Used
+
+- **Python** 3.x
+- **Libraries**:
+   - pandas (data manipulation)
+   - numpy (numerical operations)
+   - matplotlib & seaborn (static visualizations)
+   - plotly (interactive visualizations)
+   - scipy (statistical analysis)
+
+## 📊 Key Findings
+
+### Study Hours vs Performance
+> **Correlation: 0.75**
+- Strong positive correlation between study hours and grades
+- Each additional study hour associated with higher performance
+
+### Social Media Impact
+```mermaid
+graph LR
+      A[Social Media Hours] -->|Negative Correlation| B[Grade]
+```
+
+### Sleep Patterns
+| Sleep Hours | Performance Impact |
+|-------------|-------------------|
+| < 6 hours   | ⬇️ Lower grades |
+| 7-8 hours   | ⬆️ Optimal range |
+| > 9 hours   | ➡️ Diminishing returns |
+
+## 🎨 Visualizations
+
+The notebook includes various interactive and static visualizations:
+- Box plots for categorical comparisons
+- Scatter plots with regression lines
+- Interactive plots with Plotly
+- Distribution plots
+
+## 💡 Key Insights
+
+1. **Study Habits** 📚
+    - Direct correlation with academic performance
+    - Quality matters as much as quantity
+
+2. **Digital Distractions** 📱
+    - Social media shows negative correlation
+    - Netflix consumption impacts study effectiveness
+
+3. **Lifestyle Factors** 🌟
+    - Diet quality significantly affects performance
+    - Extracurricular activities show positive impact
+    - Mental health strongly correlates with academic success
+
+## 🚀 Getting Started
+
+1. Clone this repository
+2. Install required packages:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn plotly plotly_express scipy
+```
+3. Open Jupyter notebook:
+```bash
+jupyter notebook performance.ipynb
+```
+
+## 📈 Results Preview
+
+![Performance Metrics](https://via.placeholder.com/800x400?text=Student+Performance+Metrics)
+
+## 🤝 Contributions
+
+Feel free to fork this project and submit improvements. Possible enhancement areas:
+- Additional visualization types
+- More detailed statistical analysis
+- Machine learning predictions
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## ✨ Acknowledgments
+
+Special thanks to:
+- Educational institutions that provided data
+- Data science community
+- Open source contributors
+
+---
+
+<p align="center">
+Made with ❤️ for educational analysis
+</p>
+
+<div align="center">
+   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Education Separator" width="100%">
+</div>
