@@ -110,7 +110,7 @@ Hecho con ❤️ para el análisis educativo
 
 
 <div align="center">
-   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Education Separator" width="100%">
+   <hr class="rounded" style="border-top: 8px solid #bbb; border-radius: 5px">
 </div>
 
 # 📚 Student Performance Analysis
