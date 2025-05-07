@@ -232,5 +232,5 @@ Made with ❤️ for educational analysis
 </p>
 
 <div align="center">
-   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3aHcyam45MHk0NW9raGZmZ2owOWkxcjNqaGZoY3lvdnVrY2E4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ILW1fbJHW0Ndm/giphy.gif" alt="Education Separator" width="100%">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3aHcyam45MHk0NW9raGZmZ2owOWkxcjNqaGZoY3lvdnVrY2E4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ILW1fbJHW0Ndm/giphy.gif" alt="Education Separator" width="100%">
 </div>
