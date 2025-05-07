@@ -86,7 +86,7 @@ jupyter notebook performance.ipynb
 
 ## 📈 Vista Previa de Resultados
 
-![Métricas de Rendimiento](https://via.placeholder.com/800x400?text=Metricas+de+Rendimiento+Estudiantil)
+![Métricas de Rendimiento](./images/performance_metrics.png)
 
 ## 🤝 Contribuciones
 
@@ -205,7 +205,7 @@ jupyter notebook performance.ipynb
 
 ## 📈 Results Preview
 
-![Performance Metrics](https://via.placeholder.com/800x400?text=Student+Performance+Metrics)
+![Performance metrics](./images/performance_metrics.png)
 
 ## 🤝 Contributions
 
